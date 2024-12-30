@@ -1,0 +1,17 @@
+{
+  "name": "frontend-ytdlcore",
+  "version": "1.0.0",
+  "description": "Website for downloading Youtube videos.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.15.8",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
+}
